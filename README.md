@@ -62,6 +62,7 @@ DDoS-Attack-Tool/
 
 ---
 
+
 ## ⚠️ Disclaimer  
 This tool is for educational purposes **ONLY**. Performing DDoS attacks without permission is illegal and punishable by law. Always use this tool responsibly in controlled environments for testing and learning.
 
@@ -73,3 +74,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Want me to create the **`LICENSE`** and **`.gitignore`** files next? 😊
+=======
+
+## ⚠️ Disclaimer  
+This tool is for educational purposes **ONLY**. Performing DDoS attacks without permission is illegal and punishable by law. Always use this tool responsibly in controlled environments for testing and learning.
+
+---
+
+## 📄 License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+ 
+ 
